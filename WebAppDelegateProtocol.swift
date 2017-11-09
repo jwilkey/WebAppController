@@ -1,5 +1,5 @@
 import Foundation
-
+import UIKit
 
 @objc protocol WebAppDelegateProtocol {
     func baseUrl () -> URL
